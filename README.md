@@ -50,7 +50,7 @@ For each of the main chapters (2–11), you'll find:
 - **Bonus Problems**: Optional challenges to further enhance your skills.
 
 ### 💼 Additional Resources 
-This section contains a variety of tools to help you during and after this course:
+This section contains a variety of tools to help you during and after this repo:
 
 - **Code Templates**: Reusable templates for common patterns. 🧩
 - **Cheat Sheets**: Quick references for time and space complexities. 📊
