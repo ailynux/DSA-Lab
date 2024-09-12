@@ -44,6 +44,6 @@ This chapter introduces the exciting world of data structures and algorithms. Ea
 
 ---
 
-**Next Chapter: [Arrays and Strings](chapter-2-arrays-and-strings.md)**
+**Next Chapter: [Arrays and Strings](chapter-2-arrays-and-strings.md)** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" />
 
 Happy Learning! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="25" height="25" />
