@@ -73,13 +73,14 @@ Each chapter will have its own dedicated `.md` file, with detailed breakdowns an
 
 ---
 
-## 🤝 Contributions
-
-Feel free to contribute by adding more practice problems, improving explanations, or suggesting advanced topics! Everyone is welcome here! 🌍
-
-## 🏆 Get Started
+##  Get Started 🏆
+#### Click on this link to start! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="45" height="45" />
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> [Introduction to Data Structures and Algorithms](chapter-1-introduction.md)**
 
 Whether you're prepping for coding interviews or just looking to solidify your understanding of data structures and algorithms, this repo is for you! Dive into the chapters and start learning today. 🌟
+
+## 🤝🌍 Contributions <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" />
+Feel free to contribute by adding more practice problems, improving explanations, or suggesting advanced topics! Everyone is welcome here! 
 
 # Happy coding Everyone! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="55" height="55" />
 
