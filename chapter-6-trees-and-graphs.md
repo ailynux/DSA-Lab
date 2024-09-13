@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Chart Decreasing" width="75" height="75" /> Chapter 5: Trees and Graphs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="75" height="75" />
 
-Welcome to Chapter 5 of the **Data Structures and Algorithms** repository! This chapter covers two crucial hierarchical data structures: trees and graphs. These structures are fundamental in scenarios ranging from database operations to advanced network analysis, providing a robust means of organizing and processing information efficiently.
+Welcome to Chapter 6 of the **Data Structures and Algorithms** repository! This chapter covers two crucial hierarchical data structures: trees and graphs. These structures are fundamental in scenarios ranging from database operations to advanced network analysis, providing a robust means of organizing and processing information efficiently.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Camping.png" alt="Camping" width="55" height="55" /> What are Trees?
 
@@ -175,8 +175,8 @@ Trees and graphs are not just theoretical concepts; they are sophisticated struc
 
 ### **Navigation:**
 
-🔙 **Previous Chapter:** [Stacks and Queues](chapter-4-stacks-and-queues.md)  
-🔜 **Next Chapter:** [Heaps](chapter-6-heaps.md)
+🔙 **Previous Chapter:** [Stacks and Queues](chapter-5-stacks-and-queues.md)  
+🔜 **Next Chapter:** [Heaps](chapter-7-heaps.md)
 
-[![Previous](https://img.shields.io/badge/Previous-Stacks_and_Queues-blue?style=for-the-badge)](chapter-4-stacks-and-queues.md)
-[![Next](https://img.shields.io/badge/Next-Heaps-green?style=for-the-badge)](chapter-6-heaps.md)
+[![Previous](https://img.shields.io/badge/Previous-Stacks_and_Queues-blue?style=for-the-badge)](chapter-5-stacks-and-queues.md)
+[![Next](https://img.shields.io/badge/Next-Heaps-green?style=for-the-badge)](chapter-7-heaps.md)
