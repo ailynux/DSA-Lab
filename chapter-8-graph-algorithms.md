@@ -120,11 +120,11 @@ Graph algorithms are indispensable for analyzing and managing complex networks a
 
 ### **Navigation:** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
 
-🔙 **Previous Chapter:** [Dynamic Programming](chapter-7-dynamic-programming.md)  
+🔙 **Previous Chapter:** [Dynamic Programming](chapter-7-heaps.md)  
 Explore optimization strategies for solving recursive problems with efficiency.
 
-🔜 **Next Chapter:** [Advanced Data Structures](chapter-9-advanced-data-structures.md)  
+🔜 **Next Chapter:** [Advanced Data Structures](chapter-9-binary-search.md)  
 Delve into complex structures that provide sophisticated means to manage and organize data.
 
-[![Previous](https://img.shields.io/badge/Previous-Dynamic_Programming-blue?style=for-the-badge)](chapter-7-dynamic-programming.md)
-[![Next](https://img.shields.io/badge/Next-Advanced_Data_Structures-green?style=for-the-badge)](chapter-9-advanced-data-structures.md)
+[![Previous](https://img.shields.io/badge/Previous-Dynamic_Programming-blue?style=for-the-badge)](chapter-7-heaps.md)
+[![Next](https://img.shields.io/badge/Next-Advanced_Data_Structures-green?style=for-the-badge)](chapter-9-binary-search.md)
