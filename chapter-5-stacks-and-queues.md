@@ -1,6 +1,6 @@
-# Chapter 4: Stacks and Queues <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="65" height="65" />
+# Chapter 5: Stacks and Queues <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="65" height="65" />
 
-Welcome to Chapter 4 of the **Data Structures and Algorithms** repository! This chapter introduces two essential linear data structures: stacks and queues. Both play a critical role in various computing scenarios, from managing data in a controlled order to handling real-time data processing.
+Welcome to Chapter 5 of the **Data Structures and Algorithms** repository! This chapter introduces two essential linear data structures: stacks and queues. Both play a critical role in various computing scenarios, from managing data in a controlled order to handling real-time data processing.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="75" height="75" /> What are Stacks?
 
@@ -81,11 +81,11 @@ Stacks and queues are not just theoretical concepts but are foundational to deve
 
 ### Navigation
 
-🔙 **Previous Chapter:** [Hashmaps and Sets](chapter-3-hashmaps-and-sets.md)  
+🔙 **Previous Chapter:** [Hashmaps and Sets](chapter-4-linked-lists.md)  
 Explore more complex data structures that power dynamic data indexing and retrieval.
 
-🔜 **Next Chapter:** [Trees and Graphs](chapter-5-trees-and-graphs.md)  
-Dive deeper into hierarchical structures that expand your ability to organize and process information efficiently.
+🔜 **Next Chapter:** [Stacks and Queues](chapter-6-trees-and-graphs.md)  
+Understand how to manage data in a structured, linear fashion using stacks and queues.
 
 [![Previous](https://img.shields.io/badge/Previous-Hashmaps_and_Sets-blue?style=for-the-badge)](chapter-3-hashmaps-and-sets.md)
 [![Next](https://img.shields.io/badge/Next-Trees_and_Graphs-green?style=for-the-badge)](chapter-5-trees-and-graphs.md)
