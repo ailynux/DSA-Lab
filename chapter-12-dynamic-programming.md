@@ -94,10 +94,10 @@ Avoid these frequent mistakes to enhance your DP strategy:
 
 ### **Navigation:**
 
-🔙 **Previous Chapter:** [Heaps](chapter-11-backtracking.md)  
+🔙 **Previous Chapter:** [Backtracking](chapter-11-backtracking.md)  
 Explore how heaps manage data with priority structures for efficient data retrieval.
 
-🔜 **Next Chapter:** [Graph Algorithms](chapter-13-coding-tools-tips.md)  
+🔜 **Next Chapter:** [Coding Tools and Tips](chapter-13-coding-tools-tips.md)  
 Dive into algorithms that traverse, search, and optimize data structures in complex networks.
 
 [![Previous](https://img.shields.io/badge/Previous-Heaps-blue?style=for-the-badge)](chapter-11-backtracking.md)
