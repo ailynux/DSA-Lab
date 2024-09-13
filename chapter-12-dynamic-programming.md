@@ -100,5 +100,5 @@ Explore how heaps manage data with priority structures for efficient data retrie
 🔜 **Next Chapter:** [Coding Tools and Tips](chapter-13-coding-tools-tips.md)  
 Dive into algorithms that traverse, search, and optimize data structures in complex networks.
 
-[![Previous](https://img.shields.io/badge/Previous-Heaps-blue?style=for-the-badge)](chapter-11-backtracking.md)
-[![Next](https://img.shields.io/badge/Next-Graph_Algorithms-green?style=for-the-badge)](chapter-13-coding-tools-tips.md)
+[![Previous](https://img.shields.io/badge/Previous-Backtracking-blue?style=for-the-badge)](chapter-11-backtracking.md)
+[![Next](https://img.shields.io/badge/Next-coding_tools_tips-green?style=for-the-badge)](chapter-13-coding-tools-tips.md)
