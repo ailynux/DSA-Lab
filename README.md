@@ -38,8 +38,9 @@ The repo is divided into the following chapters:
 10. **Backtracking** 🔙
 11. **Dynamic Programming** 💾
 12. **Coding Interview Tools and Techniques** 🔧
-13. **Advanced Techniques (Bonus)** ✨
-14. **Graph Algorithms** 💰
+13. **Greedy Algorithms** 💰
+14. **Advanced Techniques (Bonus)** ✨
+
 
 ### 📝 Chapter Content Overview
 For each of the main chapters (2–11), you'll find:
