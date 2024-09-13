@@ -81,11 +81,11 @@ Hashmaps and sets are indispensable tools for data manipulation and rapid retrie
 
 ### Navigation
 
-🔙 **Previous Chapter:** [Hashmaps and Sets](chapter-3-hashmaps-and-sets.md)  
+🔙 **Previous Chapter:** [Arrays and Strings](chapter-2-arrays-and-strings.md)  
 🔜 **Next Chapter:** [Linked Lists](chapter-4-linked-lists.md)
 
 [![Previous](https://img.shields.io/badge/Go_to-Previous_Chapter-blue?style=for-the-badge)](chapter-2-arrays-and-strings.md)
-[![Next](https://img.shields.io/badge/Go_to-Next_Chapter-brightgreen?style=for-the-badge)](chapter-4-stacks-and-queues.md)
+[![Next](https://img.shields.io/badge/Go_to-Next_Chapter-brightgreen?style=for-the-badge)](chapter-4-linked-lists.md)
 
 ## 🤝 Connect with Me
 
