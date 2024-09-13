@@ -14,6 +14,9 @@ A tree is a non-linear data structure that simulates a hierarchical tree structu
 - **Depth**: The distance from the root to the node.
 - **Height**: The depth of the deepest node.
 
+  ![image](https://github.com/user-attachments/assets/21bd3060-1607-4522-a7ec-fa1f54deb9a4)
+
+
 ### Common Tree Types:
 - **Binary Tree**: A tree where each node has up to two children.
 - **Binary Search Tree (BST)**: A binary tree in which each node has a key greater than all the keys in the node's left subtree and less than those in its right subtree.
