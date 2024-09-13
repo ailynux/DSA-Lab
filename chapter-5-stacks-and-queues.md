@@ -87,6 +87,6 @@ Explore more complex data structures that power dynamic data indexing and retrie
 🔜 **Next Chapter:** [Stacks and Queues](chapter-6-trees-and-graphs.md)  
 Understand how to manage data in a structured, linear fashion using stacks and queues.
 
-[![Previous](https://img.shields.io/badge/Previous-Hashmaps_and_Sets-blue?style=for-the-badge)](chapter-3-hashmaps-and-sets.md)
-[![Next](https://img.shields.io/badge/Next-Trees_and_Graphs-green?style=for-the-badge)](chapter-5-trees-and-graphs.md)
+[![Previous](https://img.shields.io/badge/Previous-Hashmaps_and_Sets-blue?style=for-the-badge)](chapter-4-linked-lists.md)
+[![Next](https://img.shields.io/badge/Next-Trees_and_Graphs-green?style=for-the-badge)](chapter-6-trees-and-graphs.md)
 
