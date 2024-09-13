@@ -1,6 +1,6 @@
-# Chapter 11: Dynamic Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hushed%20Face.png" alt="Hushed Face" width="75" height="75" />
+# Chapter 12: Dynamic Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hushed%20Face.png" alt="Hushed Face" width="75" height="75" />
 
-Welcome to Chapter 11 of the **Data Structures and Algorithms** repository! In this chapter, we delve into Dynamic Programming (DP), a method for solving complex problems by breaking them down into simpler subproblems. It is especially useful for optimization questions where you're looking to find the best solution among many possibilities.
+Welcome to Chapter 12 of the **Data Structures and Algorithms** repository! In this chapter, we delve into Dynamic Programming (DP), a method for solving complex problems by breaking them down into simpler subproblems. It is especially useful for optimization questions where you're looking to find the best solution among many possibilities.
 
 ## What is Dynamic Programming? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="45" height="45" />
 
@@ -94,11 +94,11 @@ Avoid these frequent mistakes to enhance your DP strategy:
 
 ### **Navigation:**
 
-🔙 **Previous Chapter:** [Heaps](chapter-10-backtracking.md)  
+🔙 **Previous Chapter:** [Heaps](chapter-11-backtracking.md)  
 Explore how heaps manage data with priority structures for efficient data retrieval.
 
-🔜 **Next Chapter:** [Graph Algorithms](chapter-12-coding-tools-tips.md)  
+🔜 **Next Chapter:** [Graph Algorithms](chapter-13-coding-tools-tips.md)  
 Dive into algorithms that traverse, search, and optimize data structures in complex networks.
 
-[![Previous](https://img.shields.io/badge/Previous-Heaps-blue?style=for-the-badge)](chapter-10-backtracking.md)
-[![Next](https://img.shields.io/badge/Next-Graph_Algorithms-green?style=for-the-badge)](chapter-12-coding-tools-tips.md)
+[![Previous](https://img.shields.io/badge/Previous-Heaps-blue?style=for-the-badge)](chapter-11-backtracking.md)
+[![Next](https://img.shields.io/badge/Next-Graph_Algorithms-green?style=for-the-badge)](chapter-13-coding-tools-tips.md)
