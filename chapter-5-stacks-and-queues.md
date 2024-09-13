@@ -81,10 +81,10 @@ Stacks and queues are not just theoretical concepts but are foundational to deve
 
 ### Navigation
 
-🔙 **Previous Chapter:** [Hashmaps and Sets](chapter-4-linked-lists.md)  
+🔙 **Previous Chapter:** [Linked Lists](chapter-4-linked-lists.md)  
 Explore more complex data structures that power dynamic data indexing and retrieval.
 
-🔜 **Next Chapter:** [Stacks and Queues](chapter-6-trees-and-graphs.md)  
+🔜 **Next Chapter:** [Trees and Graphs](chapter-6-trees-and-graphs.md)  
 Understand how to manage data in a structured, linear fashion using stacks and queues.
 
 [![Previous](https://img.shields.io/badge/Previous-Hashmaps_and_Sets-blue?style=for-the-badge)](chapter-4-linked-lists.md)
