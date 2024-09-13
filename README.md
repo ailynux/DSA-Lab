@@ -34,11 +34,11 @@ The repo is divided into the following chapters:
 6. **Trees and Graphs** 🌲
 7. **Heaps** 📚
 8. **Graph Algorithms** 💰
-9. **Binary Search** 🔍
-10. **Backtracking** 🔙
-11. **Dynamic Programming** 💾
-12. **Coding Interview Tools and Techniques** 🔧
-13. **Greedy Algorithms** 💰
+9. **Greedy Algorithms** 💰
+10. **Binary Search** 🔍
+11. **Backtracking** 🔙
+12. **Dynamic Programming** 💾
+13. **Coding Interview Tools and Techniques** 🔧
 14. **Advanced Techniques (Bonus)** ✨
 
 
