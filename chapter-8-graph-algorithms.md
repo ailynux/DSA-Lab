@@ -120,10 +120,10 @@ Graph algorithms are indispensable for analyzing and managing complex networks a
 
 ### **Navigation:** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
 
-🔙 **Previous Chapter:** [Dynamic Programming](chapter-7-heaps.md)  
+🔙 **Previous Chapter:** [Heaps](chapter-7-heaps.md)  
 Explore optimization strategies for solving recursive problems with efficiency.
 
-🔜 **Next Chapter:** [Advanced Data Structures](chapter-9-greedy-algorithms.md)  
+🔜 **Next Chapter:** [Greedy Algorithms](chapter-9-greedy-algorithms.md)  
 Delve into complex structures that provide sophisticated means to manage and organize data.
 
 [![Previous](https://img.shields.io/badge/Previous-Dynamic_Programming-blue?style=for-the-badge)](chapter-7-heaps.md)
