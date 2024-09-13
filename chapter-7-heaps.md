@@ -118,8 +118,9 @@ Heaps are not merely theoretical constructs but are versatile and efficient tool
 ### **Navigation:**
 
 🔙 **Previous Chapter:** [Trees and Graphs](chapter-6-trees-and-graphs.md)  
-🔜 **Next Chapter:** [Greedy Algorithms](chapter-8-greedy-algorithms.md)
+🔜 **Next Chapter:** [Graph Algorithms](chapter-8-graph-algorithms.md)
 
 [![Previous](https://img.shields.io/badge/Previous-Trees_and_Graphs-blue?style=for-the-badge)](chapter-6-trees-and-graphs.md)
-[![Next](https://img.shields.io/badge/Next-Dynamic_Programming-green?style=for-the-badge)](chapter-8-greedy-algorithms.md)
+[![Next](https://img.shields.io/badge/Next-Graph_Algorithms-green?style=for-the-badge)](chapter-8-graph-algorithms.md)
+
 
