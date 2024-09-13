@@ -1,6 +1,6 @@
-# Chapter 6: Heaps <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="75" height="75" />
+# Chapter 7: Heaps <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="75" height="75" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="55" height="55" /> Welcome to Chapter 6 of the **Data Structures and Algorithms** repository! In this chapter, we'll explore heaps, a specialized tree-based data structure that is extremely useful for implementing priority queues. Heaps help manage data in a way that the highest (or lowest) priority element is always at the front.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="55" height="55" /> Welcome to Chapter 7 of the **Data Structures and Algorithms** repository! In this chapter, we'll explore heaps, a specialized tree-based data structure that is extremely useful for implementing priority queues. Heaps help manage data in a way that the highest (or lowest) priority element is always at the front.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac0404c5-cb8f-4d04-a0b2-d0d7007df6ec" width="250" alt="Descriptive Alt Text">
@@ -117,9 +117,9 @@ Heaps are not merely theoretical constructs but are versatile and efficient tool
 
 ### **Navigation:**
 
-🔙 **Previous Chapter:** [Trees and Graphs](chapter-5-trees-and-graphs.md)  
-🔜 **Next Chapter:** [Dynamic Programming](chapter-7-dynamic-programming.md)
+🔙 **Previous Chapter:** [Trees and Graphs](chapter-6-trees-and-graphs.md)  
+🔜 **Next Chapter:** [Dynamic Programming](chapter-8-greedy-algorithms.md)
 
-[![Previous](https://img.shields.io/badge/Previous-Trees_and_Graphs-blue?style=for-the-badge)](chapter-5-trees-and-graphs.md)
-[![Next](https://img.shields.io/badge/Next-Dynamic_Programming-green?style=for-the-badge)](chapter-7-dynamic-programming.md)
+[![Previous](https://img.shields.io/badge/Previous-Trees_and_Graphs-blue?style=for-the-badge)](chapter-6-trees-and-graphs.md)
+[![Next](https://img.shields.io/badge/Next-Dynamic_Programming-green?style=for-the-badge)](chapter-8-greedy-algorithms.md)
 
