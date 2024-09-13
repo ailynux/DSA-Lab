@@ -127,4 +127,4 @@ Explore optimization strategies for solving recursive problems with efficiency.
 Delve into complex structures that provide sophisticated means to manage and organize data.
 
 [![Previous](https://img.shields.io/badge/Previous-Dynamic_Programming-blue?style=for-the-badge)](chapter-7-heaps.md)
-[![Next](https://img.shields.io/badge/Next-Advanced_Data_Structures-green?style=for-the-badge)](chapter-9-binary-search.md)
+[![Next](https://img.shields.io/badge/Next-Advanced_Data_Structures-green?style=for-the-badge)](chapter-9-greedy-algorithms.md)
