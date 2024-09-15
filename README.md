@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ailynux/DSA-Lab.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ailynux/DSA-Lab)
 ![Made with Love](https://img.shields.io/badge/Made%20with-💖%20by%20Ailyn%20Diaz-purple)
 
-Welcome to the **Data Structures and Algorithms** repository! 🎉 This repo is designed to guide you through the essential data structures and algorithms commonly encountered in coding interviews. The repo is structured into **13 chapters**, each focusing on specific topics with detailed explanations, examples, and practice problems to build your problem-solving skills. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" />
+Welcome to the **Data Structures and Algorithms** repository! 🎉 This repo is designed to guide you through the essential data structures and algorithms commonly encountered in coding interviews. The repo is structured into **14 chapters**, each focusing on specific topics with detailed explanations, examples, and practice problems to build your problem-solving skills. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" />
 
 ## 👨‍💻 Author
 **Ailyn Diaz**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />
