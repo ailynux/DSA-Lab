@@ -7,7 +7,7 @@ Welcome to the **Data Structures and Algorithms** repository! 🎉 This repo is 
 
 ## 👨‍💻 Author
 **Ailyn Diaz**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ailyn-diaz-802943225) for any questions or if you want to join forces to enhance this project!
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ailyndiaz01) for any questions or if you want to join forces to enhance this project!
 - For more exciting projects, follow my [GitHub](https://github.com/ailynux).
 
 ## 🌟 Features
